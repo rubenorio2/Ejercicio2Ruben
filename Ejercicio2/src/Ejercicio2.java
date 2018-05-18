@@ -5,5 +5,6 @@ public class Ejercicio2 {
 		// TODO Auto-generated method stub
 		System.out.println("Ejemplo de git");
 		System.out.println("Esta es la version2 por ramificacion");
+		System.out.println("Esta es la version2 por ramificacion2");
 	}
 }
